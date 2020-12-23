@@ -1,0 +1,4 @@
+this is the 3rd part of telusko video
+it contains the static files.
+how to load static files and set all the files to {% static %} we just use here by simple method
+its a bacis static files code 
